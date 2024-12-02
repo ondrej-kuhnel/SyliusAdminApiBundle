@@ -22,7 +22,7 @@
     "require": {
         "php": "^7.3",
 
-        "friendsofsymfony/oauth-server-bundle": "^1.6",
+        "friendsofsymfony/oauth-server-bundle": "^1.6 || >2.0.0-alpha.0 ^2.0@dev",
         "sylius/core-bundle": "^1.2",
         "symfony/form": "^4.4",
         "symfony/framework-bundle": "^4.4",
